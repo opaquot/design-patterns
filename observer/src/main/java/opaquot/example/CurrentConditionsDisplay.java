@@ -1,6 +1,6 @@
-package org.example;
+package opaquot.example;
 
-import org.observer.Observer;
+import opaquot.observer.Observer;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 

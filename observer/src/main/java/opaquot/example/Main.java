@@ -1,4 +1,4 @@
-package org.example;
+package opaquot.example;
 
 public class Main {
 

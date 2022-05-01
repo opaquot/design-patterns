@@ -1,4 +1,4 @@
-package org.observer;
+package opaquot.observer;
 
 public interface Observer {
 
