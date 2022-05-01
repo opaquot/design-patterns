@@ -1,7 +1,7 @@
-package org.example;
+package opaquot.example;
 
-import org.observer.Observer;
-import org.observer.Subject;
+import opaquot.observer.Observer;
+import opaquot.observer.Subject;
 
 import java.util.ArrayList;
 import java.util.List;
